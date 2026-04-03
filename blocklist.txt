@@ -1,1 +1,5 @@
-whatsapp.com
+!Personal Blocklists
+!
+
+||whatsapp.com
+||whatsapp.net
