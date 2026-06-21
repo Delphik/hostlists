@@ -10,6 +10,6 @@
 ||shophermedia.net^
 ||*.shophermedia.net^
 ||merchantreviews.net^
-||*.merchantreviews.net^
+||sales.merchantreviews.net^
 ||redindeedeisasbe.org^
 ||*.redindeedeisasbe.org^
