@@ -13,3 +13,4 @@
 ||sales.merchantreviews.net^
 ||redindeedeisasbe.org^
 ||*.redindeedeisasbe.org^
+||cdn.taboola.com^
