@@ -11,3 +11,5 @@
 ||*.shophermedia.net
 ||merchantreviews.net
 ||*.merchantreviews.net
+||redindeedeisasbe.org
+||*.redindeedeisasbe.org
