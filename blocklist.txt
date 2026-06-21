@@ -2,5 +2,12 @@
 !
 
 ||whatsapp.com
+||*.whatsapp.com
 ||whatsapp.net
+||*.whatsapp.net
+||*.wa.me
 ||wa.me
+||shophermedia.net
+||*.shophermedia.net
+||merchantreviews.net
+||*.merchantreviews.net
