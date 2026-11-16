@@ -2,3 +2,5 @@ t.co
 xfinity.com
 paramountplus.com
 saa.paramountplus.com
+cdn-media.brightline.tv
+events.brightline.tv
